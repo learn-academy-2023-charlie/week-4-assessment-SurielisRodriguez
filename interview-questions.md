@@ -22,7 +22,7 @@ Researched answer: I was correct with my answer, and if coding with Ruby you mus
 
 Your answer: Implicit return is a type of return that does not to be expressed in the programming language, the return is already imlied using the line of code. 
 
-Researched answer:
+Researched answer: Implicit return means you do not need to use the return keyword to get it to return specific information. This is found in languages like Ruby, Python, and Javascript and is used to streamline coding functions/methods. This reduces the need for boilet plate methods, and allows more readability in your code.
 
 4. What is a block in Ruby?
 
